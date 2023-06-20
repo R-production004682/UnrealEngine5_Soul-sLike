@@ -12,9 +12,9 @@ ___
 ![スクリーンショット (38)](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/08756a6f-a7e9-4e7c-9bfb-c52a8af18ac4)  
 ___  
 ### 詳細  
-データ管理ツール : GitHub、SourceTree（ブランチ管理がしやすいから採用しました。）
+データ管理ツール : GitHub、SourceTree（ブランチ管理がしやすいから採用しました。）  
 使用ゲームエンジン : UnrealEngine5.1  
 使用言語 : C++(ブループリント)  
 
-
 ゲームジャンル : ソウルライク  
+開発期間 : 約2ヶ月  
