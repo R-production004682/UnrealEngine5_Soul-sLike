@@ -1,2 +1,8 @@
-#Project Soul's LikeGame_UnrealEngine5.1
+Project : **Soul's LikeGame_UnrealEngine5.1** 
+
+～～プロジェクトの概要説明～～  
+制作期間2ヶ月で、初めてのUnrealEngineを使ってソウルライクゲームを作る。  
+
+昨今、ブループリントを使って開発している企業が多いと聞いたので、  
+ブループリントに慣れることも目的として開発しました。  
 
