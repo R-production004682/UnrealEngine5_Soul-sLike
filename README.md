@@ -7,6 +7,6 @@ Project : **Soul's LikeGame_UnrealEngine5.1**
 ブループリントに慣れることも目的として開発しました。  
 
 
-ゲームの様子を少し紹介します！  
+#### ゲームの様子を少し紹介します！  
 ![スクリーンショット (40)](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/a19ea226-d5b8-456f-adff-f2cada49c41c)  
 ![スクリーンショット (38)](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/08756a6f-a7e9-4e7c-9bfb-c52a8af18ac4)
