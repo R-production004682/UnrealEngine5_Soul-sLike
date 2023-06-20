@@ -8,8 +8,9 @@
 
 ___
 ### ゲームのプレイの様子  
-![スクリーンショット (40)](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/a19ea226-d5b8-456f-adff-f2cada49c41c)  
-![スクリーンショット (38)](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/08756a6f-a7e9-4e7c-9bfb-c52a8af18ac4)  
+![mol8ia8u](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/3ddc903a-73df-4024-98ef-92f7cba1e887)  
+![yrwfoup7](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/3a4ecbd9-0668-4494-a46e-e170f88c9313)  
+
 ___  
 ### 詳細  
 | データ管理ツール | GitHub、SourceTree (ブランチ管理がしやすいから採用しました。)|
