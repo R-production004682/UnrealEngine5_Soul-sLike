@@ -11,6 +11,8 @@ ___
 ![mol8ia8u](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/3ddc903a-73df-4024-98ef-92f7cba1e887)  
 ![yrwfoup7](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/3a4ecbd9-0668-4494-a46e-e170f88c9313)  
 
+動画で見たい場合はこちらから☟  
+https://youtu.be/z7tWed1a6Oc
 ___  
 ### 詳細  
 | データ管理ツール | GitHub、SourceTree (ブランチ管理がしやすいから採用しました。)|
