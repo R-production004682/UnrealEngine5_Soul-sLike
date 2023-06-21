@@ -15,7 +15,7 @@ ___
 https://youtu.be/z7tWed1a6Oc
 ___  
 ### 詳細  
-| データ管理ツール | GitHub、SourceTree (ブランチ管理がしやすいから採用しました。)|
+| データ管理ツール | GitHub、SourceTree (ブランチ管理がしやすいので採用しました。)|
 ----|---- 
 | 使用ゲームエンジン | UnrealEngine5.1 |
 | 使用言語 | C++ (ブループリント)|
