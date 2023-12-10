@@ -6375,3 +6375,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-15.48.15:120][150]LogMeshUtilities: Finished distance field build in 4.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, Skybox
 [2023.12.10-15.48.16:823][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
 [2023.12.10-15.48.28:828][189]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.10-15.50.22:035][441]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.319 and deleted 0 files with total size 0 MiB. Scanned 16491 files in 16122 folders with total size 1829 MiB.
