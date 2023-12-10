@@ -6376,6 +6376,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-15.48.16:823][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
 [2023.12.10-15.48.28:828][189]LogSlate: Window 'Delete Assets' being destroyed
 [2023.12.10-15.50.22:035][441]LogDerivedDataCache: C:/Users/vantan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.319 and deleted 0 files with total size 0 MiB. Scanned 16491 files in 16122 folders with total size 1829 MiB.
+<<<<<<< HEAD
 [2023.12.10-15.51.12:803][626]LogSlate: Window 'BP_Title' being destroyed
 [2023.12.10-15.51.12:813][626]LogSlate: Window 'BP_Title' being destroyed
 [2023.12.10-15.51.12:829][626]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
@@ -7013,3 +7014,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-15.51.22:606][725]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.12.10-15.51.22:656][725]LogExit: Exiting.
 [2023.12.10-15.51.22:674][725]Log file closed, 12/11/23 00:51:22
+=======
+>>>>>>> feature/BossScene
