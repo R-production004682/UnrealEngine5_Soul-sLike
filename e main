@@ -1,0 +1,469 @@
+[33mcommit 564de7e27eb5c52d5389b1abe20057a68a76af49[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Dec 13 01:00:45 2023 +0900
+
+    敵のモーションを少し調整、攻撃エフェクト追加
+
+[33mcommit 0795d7285fc0202d3be1ec94950e1088c4a9327d[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Dec 12 04:25:27 2023 +0900
+
+    ヒットストップのマクロ追加、カメラシェイクの調整
+
+[33mcommit f7e8fb43a8f63165bc3365e944fe97a1e843c4ed[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Dec 12 02:39:32 2023 +0900
+
+    no message
+
+[33mcommit 515120a6fe836c404da7e09fef5f8080d5db04ea[m
+Merge: 765c877f 2b363bb3
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Dec 11 00:54:43 2023 +0900
+
+    Merge branch 'feature/BossScene'
+    
+    # Conflicts:
+    #       ActionGame02/Content/ThirdPerson/Maps/TitleMap.umap
+    #       ActionGame02/Saved/AutoScreenshot.png
+    #       ActionGame02/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+    #       ActionGame02/Saved/Logs/ActionGame02.log
+
+[33mcommit 765c877ff0ee5b7ed1197581e3c216b7b000e10e[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Dec 11 00:53:39 2023 +0900
+
+    no message
+
+[33mcommit 2b363bb3b76cb0203ae9924a63ac874fb8a80fcc[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Dec 11 00:50:53 2023 +0900
+
+    no message
+
+[33mcommit 08adab6c781331511ff592279e7cffcd08f87fd6[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Dec 11 00:50:11 2023 +0900
+
+    ボス線専用のSceneを作成、死亡演出の追加、ボタン押したときの効果音作成、ＷＢＰの作成
+
+[33mcommit c7fc6474e012a5ef2171afddd4ebe97229b72ad1[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Fri Jul 28 23:42:02 2023 +0900
+
+    Update README.md
+
+[33mcommit 79bfa79f37231579bf8ed1bcf36a57c5c5eabdb2[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Fri Jun 23 15:00:24 2023 +0900
+
+    Update README.md
+
+[33mcommit 40e0808fa7b35fc06e253f62d22c1babf4ef16f8[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 22 15:21:43 2023 +0900
+
+    Update README.md
+
+[33mcommit 13bbe965736907bcaaa69b425be5631c02ba8d88[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 22 13:59:10 2023 +0900
+
+    Update README.md
+
+[33mcommit a68735ac70c423dd9aea596b1c8dc0466cfc577a[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 13:45:39 2023 +0900
+
+    Update README.md
+
+[33mcommit a10e38bc23c1e1989f9df543697d1bf03f27888e[m
+Merge: ff755835 62acdbf5
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 13:35:54 2023 +0900
+
+    Merge branch 'main' of github.com:Ryosuke004682/UnrealEngine5_Soul-sLike
+
+[33mcommit 62acdbf5a303229938abbf4f14343697a1dbd3c6[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 12:59:51 2023 +0900
+
+    Update README.md
+
+[33mcommit f44ec2ff100477f49504361eac7dcc2a142e4cd2[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 06:44:04 2023 +0900
+
+    Update README.md
+
+[33mcommit 42aba92daec5a76337fe7ac4a0837032fe451e6f[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 06:43:17 2023 +0900
+
+    Update README.md
+
+[33mcommit ff755835e5041f3842acd322332fa9122fd3e42f[m[33m ([m[1;31morigin/Master[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 06:31:47 2023 +0900
+
+    リファクタリング
+
+[33mcommit 7e32501ee40c3e2552780206ee3e1866657edee5[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:17:38 2023 +0900
+
+    Update README.md
+
+[33mcommit ef89deded2c5a6a7294bb7980d125c06055b2909[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:10:48 2023 +0900
+
+    Update README.md
+
+[33mcommit 0feb4806d44cc94cca0d17906df7a3a053c2274a[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:09:45 2023 +0900
+
+    Update README.md
+
+[33mcommit 98a428388b60b6c1fa2f9187c123b58bbd7e51a7[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:08:17 2023 +0900
+
+    Update README.md
+
+[33mcommit 2ed801192a1ce860a5b652ac1e67240e11fe6c59[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:06:00 2023 +0900
+
+    Update README.md
+
+[33mcommit c0aced39ced6765a3c83c5cc5e8f3c21aed088c6[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:05:27 2023 +0900
+
+    Update README.md
+
+[33mcommit 58bf84f1e6dc7c2e9f6a4236d0acd4048ccb0135[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 21 03:04:37 2023 +0900
+
+    Update README.md
+
+[33mcommit e52731f7dba134adb853f5c95597866c31da4b10[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 16:09:22 2023 +0900
+
+    Update README.md
+
+[33mcommit 241e1ad5ec6c575c57b55dffa1dd09056356f787[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 16:09:09 2023 +0900
+
+    Update README.md
+
+[33mcommit bc2a2a9877306179085bb7baca9edfdd67c23a48[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 16:04:52 2023 +0900
+
+    Update README.md
+
+[33mcommit 82a648b4e7531b022e7ba5e881a0b946c2e476d2[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 16:03:38 2023 +0900
+
+    Update README.md
+
+[33mcommit c2f366571568724d923bd588e6cd2ea6b593ccdc[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:57:01 2023 +0900
+
+    Update README.md
+
+[33mcommit ec896348f0a651769f213b30232e2e2a2081954b[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:51:56 2023 +0900
+
+    Update README.md
+
+[33mcommit 66fe3d5ab7eb607d2fe2d6ade7fa2f0ce51cd16b[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:45:55 2023 +0900
+
+    Update README.md
+
+[33mcommit cd29f358d3e1c210d5151a85c490849e140af94b[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:42:33 2023 +0900
+
+    Update README.md
+
+[33mcommit d52f880eb1f74881dd54e7a0b09065c44a2a6e78[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:40:54 2023 +0900
+
+    Update README.md
+
+[33mcommit f0ed31d12314c9d2395bdb3ef40b5b448953cd67[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:38:36 2023 +0900
+
+    Update README.md
+
+[33mcommit f69bd01316bda4b61e61562e272cb7c8eec8afc8[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:30:11 2023 +0900
+
+    Update README.md
+
+[33mcommit 4241ce6cb6dce17c5a4f5cfeec33bf84f4e664c7[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:29:20 2023 +0900
+
+    Update README.md
+
+[33mcommit 092a8607e54d64c74e048212eed2029982a417b5[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:29:06 2023 +0900
+
+    Update README.md
+
+[33mcommit bbf81c9e80dac7701117fd651b99fdd1e15fc461[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:28:15 2023 +0900
+
+    Update README.md
+
+[33mcommit 014f02502204deb41e91406ea7181a2d9388aec2[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 15:27:08 2023 +0900
+
+    Update README.md
+
+[33mcommit 6d927e5834035ba47be6452066dd5434e42cc01e[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 14:51:54 2023 +0900
+
+    Update README.md
+
+[33mcommit 49b2013b3d238e220f7b24a7a7b556b7ff771794[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 14:51:20 2023 +0900
+
+    Update README.md
+
+[33mcommit d8cbdd380669c1a5844cd441151c255b770eafe8[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 14:51:03 2023 +0900
+
+    Update README.md
+
+[33mcommit cfc5e04daa0cf819d57e971826ca9431756e8d60[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 14:12:42 2023 +0900
+
+    Update README.md
+
+[33mcommit 7543e76abf8f8b63ac8d5748838d48b8cfd75e5b[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 14:12:09 2023 +0900
+
+    Update README.md
+
+[33mcommit 4f0feae75fc73299cb3a82d0660790b66b6e6cde[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 20 13:55:33 2023 +0900
+
+    Update README.md
+
+[33mcommit 2d85e735ed08df612c10565b1b677c25f5a7af00[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Jun 19 23:33:51 2023 +0900
+
+    敵MobAIのコードをリファクタリング
+
+[33mcommit 74f6050a8488c2df61dfa9d896cb02563f753fa7[m[33m ([m[1;31morigin/BetaVersion[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Jun 19 18:25:32 2023 +0900
+
+    微調節、ステータスのバランス調整
+
+[33mcommit 61f042eccf34acb14c89edcbd4326914f8eaf091[m
+Merge: ec17638f a1620ccb
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 15 03:19:38 2023 +0900
+
+    Merge pull request #39 from Ryosuke004682/master
+    
+    ベータ完成
+
+[33mcommit a1620ccb642926e27fa39a418ae11c365abac7cd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 15 03:17:37 2023 +0900
+
+    ベータ完成
+
+[33mcommit ec17638fcba888f967e989d72f20ff3d83998839[m
+Merge: 4f22edcb adc3b105
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 13 02:06:17 2023 +0900
+
+    Merge pull request #38 from Ryosuke004682/feature/Healpoint
+    
+    ポーションを中間で補充するポイントの作成。当たったらポイントのDestroyまで出来た。
+
+[33mcommit adc3b1056fc0092a62d6893411ade80131df09a6[m[33m ([m[1;31morigin/feature/Healpoint[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Tue Jun 13 02:05:18 2023 +0900
+
+    ポーションを中間で補充するポイントの作成。当たったらポイントのDestroyまで出来た。
+
+[33mcommit 4f22edcb2e9ab286e8c82e7037e47726e0e89b1b[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Jun 12 22:44:18 2023 +0900
+
+    ゲームのバランス調整
+
+[33mcommit 922f6d3a48316c0a4620c51c31f47bd685d6c6d2[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Mon Jun 12 00:54:35 2023 +0900
+
+    バグ修正中（取得すべきタグを取得しない問題。おそらく配列の取り出し方がおかしいのかもしれない。。。）
+
+[33mcommit 1bc348a32fdfdff80444f3dd488bdad684accf12[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 18:31:56 2023 +0900
+
+    no message
+
+[33mcommit e0f618572a56ba74a4c101447b77f2b2e2636593[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 18:22:20 2023 +0900
+
+    タイトル画面を作成
+
+[33mcommit c80f44ffa717bbeaa62dd5c2e57ad3087b93d6fc[m
+Merge: 59162fe7 a75af6ba
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:54:31 2023 +0900
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       ActionGame02/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+    #       ActionGame02/Saved/Logs/ActionGame02.log
+
+[33mcommit 59162fe7b8bd8ac064f72f89678fad9fa1b9464b[m
+Merge: de7117b5 2457cf3a
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:53:20 2023 +0900
+
+    Merge remote-tracking branch 'origin/feature/NortPC'
+    
+    # Conflicts:
+    #       ActionGame02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/24/7UJ7QKH1D3W0CTCF8O80J9.uasset
+    #       ActionGame02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/IM/1LPBCOMPQ8AAYFQIVTSXJ4.uasset
+    #       ActionGame02/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FC/GB87TL0VDSMTUXR50RALHB.uasset
+    #       ActionGame02/Intermediate/CachedAssetRegistry.bin
+    #       ActionGame02/Saved/AutoScreenshot.png
+    #       ActionGame02/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+    #       ActionGame02/Saved/Logs/ActionGame02.log
+    #       ActionGame02/Saved/SourceControl/UncontrolledChangelists.json
+
+[33mcommit de7117b58b7bad42cf720d4ddbd18ba148b957b8[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:38:24 2023 +0900
+
+    no message
+
+[33mcommit 2457cf3aec3bb7af8b0e1534a8673e55e882ac14[m[33m ([m[1;31morigin/feature/NortPC[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:34:09 2023 +0900
+
+    Revert "Revert "ライトの調節""
+    
+    This reverts commit 223b893076135a74ce38cc8932d012b00db1e7c7.
+
+[33mcommit a75af6ba147906fd9cfd0213ff3e6b2fa27d96e4[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:33:26 2023 +0900
+
+    no message
+
+[33mcommit 223b893076135a74ce38cc8932d012b00db1e7c7[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 11:32:09 2023 +0900
+
+    Revert "ライトの調節"
+    
+    This reverts commit 573e3f73ee323ef60896682203a9c5a25c1d9a3f.
+
+[33mcommit 50717ac11a3a86dc54782591a2eb217892dda96e[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Sat Jun 10 00:16:15 2023 +0900
+
+    バランス調整
+
+[33mcommit dbbab2117260ec2e9ca8835180b494376c3bd730[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Fri Jun 9 23:07:11 2023 +0900
+
+    no message
+
+[33mcommit dbd3eaade358a786cef129619a8b3e48499fb514[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Fri Jun 9 21:13:02 2023 +0900
+
+    no message
+
+[33mcommit 573e3f73ee323ef60896682203a9c5a25c1d9a3f[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Fri Jun 9 17:58:38 2023 +0900
+
+    ライトの調節
+
+[33mcommit 913fe45c55093f5de3777ea18425fea28eb8459a[m
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 8 17:56:39 2023 +0900
+
+    Update README.md
+
+[33mcommit 683ae47690264078fbf1e9513c4c8d9bbac15e74[m
+Merge: 1e98555a 367c7369
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 8 16:49:43 2023 +0900
+
+    Merge pull request #36 from Ryosuke004682/feature/StageSetting
+    
+    ステージセッティング
+
+[33mcommit 367c7369058afee77bebff2ae66e683dcd2f91bd[m[33m ([m[1;31morigin/feature/StageSetting[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 8 16:48:59 2023 +0900
+
+    ステージセッティング
+
+[33mcommit 1e98555ae08549ba1212089cb6c3a28b36a16bef[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Thu Jun 8 02:23:55 2023 +0900
+
+    ステージ追加
+
+[33mcommit 33209bab95c869cbb883a049e5f72feeb87d8073[m
+Merge: 0385e57e 48174417
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 7 01:50:44 2023 +0900
+
+    Merge pull request #35 from Ryosuke004682/feature/newPlayer
+    
+    完成（ベータ版）！！スカウト展までにスタート画面や、フィールドのBGM、環境音などを追加する。
+
+[33mcommit 48174417c6100d3dcccaa6db06b28e0d4cbe189e[m[33m ([m[1;31morigin/feature/newPlayer[m[33m)[m
+Author: ryousuke <83821881+Ryosuke004682@users.noreply.github.com>
+Date:   Wed Jun 7 01:50:08 2023 +0900
+
+    完成（ベータ版）！！スカウト展までにスタート画面や、フィールドのBGM、環境音などを追加する。
+
+[33mcommit 0385e57ec2674fbf9a01d529a3ac2417b022bce5[m
+Merge: 11375998 68acff32
+Author: Ryosuke <83821881+Ryosuke004682@users.noreply.github.c
