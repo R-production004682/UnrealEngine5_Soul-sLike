@@ -12,7 +12,7 @@ ___
 ![yrwfoup7](https://github.com/Ryosuke004682/UnrealEngine5_Soul-sLike/assets/83821881/3a4ecbd9-0668-4494-a46e-e170f88c9313)  
 
 動画で見たい方はこちらから☟  
-https://youtu.be/z7tWed1a6Oc
+https://youtu.be/WUVV35t4Oc4
 ___  
 ### 詳細  
 | データ管理ツール | GitHub、SourceTree (ブランチ管理がしやすいので採用しました。)|
